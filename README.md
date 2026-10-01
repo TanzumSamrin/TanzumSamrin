@@ -10,16 +10,21 @@
 
 ### 🚀 About Me
 
-I'm a Full Stack Developer and Computer Science &amp; Engineering graduate who enjoys building modern, scalable, and user-focused web applications.  
-My development journey started with the Python/Django ecosystem, where I built applications and REST APIs, and I'm currently expanding into the modern JavaScript/TypeScript ecosystem with React, Next.js, Node.js, and MongoDB.  
-I enjoy turning ideas into practical software and continuously improving my skills through hands-on projects.  
-🎓 BSc in Computer Science &amp; Engineering — Daffodil International University  
-📅 Graduated in 2026  
-🐍 Completed Full Stack Development training with Python &amp; Django  
-⚛️ Currently studying Full Stack Web Engineering  
-🚀 Interested in building scalable web applications and REST APIs  
-🤖 Exploring AI-assisted development and modern engineering practices  
-💡 Always learning, building, and improving
+I build things, break things, learn from them, and build them better.
+
+I'm a Full Stack Developer and CSE graduate with a foundation in Python and Django and a growing focus on the modern JavaScript/TypeScript ecosystem.
+
+From building REST APIs with Django to exploring React, Next.js, Node.js, and MongoDB, I'm constantly experimenting with technologies that help turn ideas into useful software.
+
+🎓 BSc in Computer Science & Engineering — Daffodil International University
+📅 Graduated in 2026
+🐍 Python & Django
+⚛️ React & Next.js
+🟢 Node.js & TypeScript
+🗄️ MongoDB & REST APIs
+🤖 AI-assisted development
+🚀 Focused on building, learning, and becoming a better engineer every day.
+
 
 😄 &nbsp;Pronouns: **she/her**
 
